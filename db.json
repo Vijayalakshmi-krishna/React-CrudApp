@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "name": "Krishna",
+      "age": "35",
+      "email": "krishna@gmail.com"
+    },
+    {
+      "name": "Sai",
+      "age": "3",
+      "email": "sai@gmail.com",
+      "id": "3"
+    },
+    {
+      "name": "Nishant",
+      "age": "7",
+      "email": "Nishant12@gmail.com",
+      "id": "4"
+    }
+  ]
+}
